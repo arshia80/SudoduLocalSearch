@@ -1,4 +1,4 @@
-# Sudodu with Local Search
+# Sove Sudodu with Local Search
 arshia hoseinmardy
 
 In this program, we try to solve sudoku with local search (genetic algorithm)
