@@ -8,6 +8,7 @@ If it was unsuccessful to solve sudoku after 1000 generations (in total) it will
 
 
 Main classes are Generic (mispronounce genetic) , SudokoFunc , Sudoko , AlgorithmStart  , ai 
+
 Main and Main2 are test classes and they are not part of the main code
 
 
